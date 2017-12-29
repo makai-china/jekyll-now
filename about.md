@@ -16,7 +16,7 @@ Tianjin University, Master's Degree
 《Parallel gradient-based local search accelerating particle swarm optimization for training microwave neural network models》  
 
 
-### work experience
+### Work experience
 
 Three years' experience of database kernel development 
 
