@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Education  
+### Highest education  
 
 Tianjin University, Master's Degree   
 （recommended postgraduate）   
