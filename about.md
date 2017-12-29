@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /自我介绍/
 ---
 
 ### 学历  
@@ -10,7 +10,8 @@ permalink: /about/
 
 ### 论文  
 
-《Distributed parallel computing technique for EM modeling》    
+《Distributed parallel computing technique for EM modeling》   
+
 《Parallel gradient-based local search accelerating particle swarm optimization for training microwave neural network models》  
 
 
