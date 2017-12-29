@@ -4,12 +4,20 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### 学历  
 
-### More Information
+天津大学 硕士（保送）   
 
-A place to include any other types of information that you'd like to include about yourself.
+### 论文  
 
-### Contact me
+《Distributed parallel computing technique for EM modeling》  
+《Parallel gradient-based local search accelerating particle swarm optimization for training microwave neural network models》  
 
-[email@domain.com](mailto:email@domain.com)
+
+### 工作经历
+
+三年数据库内核开发  
+
+### 联系方式
+
+[makai_china@yahoo.com](mailto:makai_china@yahoo.com)
