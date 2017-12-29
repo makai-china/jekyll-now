@@ -10,7 +10,7 @@ permalink: /about/
 
 ### 论文  
 
-《Distributed parallel computing technique for EM modeling》  
+《Distributed parallel computing technique for EM modeling》    
 《Parallel gradient-based local search accelerating particle swarm optimization for training microwave neural network models》  
 
 
