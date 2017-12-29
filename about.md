@@ -1,24 +1,25 @@
 ---
 layout: page
-title: 自我介绍
+title: About
 permalink: /about/
 ---
 
-### 学历  
+### Education  
 
-天津大学 硕士（保送）   
+Tianjin University, Master's Degree   
+（recommended postgraduate）   
 
-### 论文  
+### Papers  
 
 《Distributed parallel computing technique for EM modeling》   
 
 《Parallel gradient-based local search accelerating particle swarm optimization for training microwave neural network models》  
 
 
-### 工作经历
+### work experience
 
-三年数据库内核开发  
+Three years' experience of database kernel development 
 
-### 联系方式
+### Contact me
 
 [makai_china@yahoo.com](mailto:makai_china@yahoo.com)
