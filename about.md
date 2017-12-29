@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /自我介绍/
+title: 自我介绍
+permalink: /About/
 ---
 
 ### 学历  
